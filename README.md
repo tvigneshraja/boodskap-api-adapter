@@ -20,11 +20,11 @@ var config = {
     apiKey:""
 }
 
-#new BoodskapAPI(config, token);
-# if you have logged in token pass that to boodskap api adapter
+# new BoodskapAPI(config, token);
+# if you have already logged in pass the <TOKEN> to the boodskap api adapter
 
 
-var boodskap = new BoodskapAPI(config, <OPTIONAL>)
+var boodskap = new BoodskapAPI(config, <TOKEN_OPTIONAL>)
 
 #Execute login call
 
