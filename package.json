@@ -9,10 +9,18 @@
   "keywords": [
     "boodskap"
   ],
-  "author": "Thanga Vignesh Raja T",
+  "author": {
+    "name": "Thanga Vignesh Raja T",
+    "email": "thangavigneshraja@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.0",
     "underscore": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvigneshraja/boodskap-api-adapter.git"
+  },
+  "homepage": "https://github.com/tvigneshraja/boodskap-api-adapter#readme"
 }
